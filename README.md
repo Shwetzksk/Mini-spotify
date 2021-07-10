@@ -53,7 +53,7 @@ I learnt about **_REDUX_**, spotify Api. I have little improved in React, and af
 
 - [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
-- [MaterialUI](https://material-ui.com/)
+- [React icons](https://react-icons.github.io/react-icons)
 
 ## **Features**
 
